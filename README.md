@@ -52,7 +52,7 @@ In the `backend` folder, run `python3 runserver.py 80`
 
 Export the database using `mysqldump -uDATABASE_USER -pDATABASE_PWD -hDATABASE_HOST -PDATABASE_PORT DATABASE_NAME > quizme.sql` (Do NOT include any spaces between flags and arguments)
 
-### ------- Features ------- ####
+### Features
 
 Login:
 - Email Verification
@@ -117,7 +117,7 @@ Profile:
 Setting:
 - Allows you to delete your account
 
-### ------- Challenges ------- ####
+### Challenges
 
 Our project initially faced a significant challenge: we had to pivot from our original idea after two weeks of collaboration with advisors and YaleHealth. We were planning a Mental Health resource platform intended for all students on campus. However, we realized that our goal was too ambitious given the constraints of our project timeline and the feasibility of a partnership.
 
