@@ -52,7 +52,7 @@ In the `backend` folder, run `python3 runserver.py 80`
 
 Export the database using `mysqldump -uDATABASE_USER -pDATABASE_PWD -hDATABASE_HOST -PDATABASE_PORT DATABASE_NAME > quizme.sql` (Do NOT include any spaces between flags and arguments)
 
-### Features
+## Features
 
 Login:
 - Email Verification
@@ -117,7 +117,7 @@ Profile:
 Setting:
 - Allows you to delete your account
 
-### Challenges
+## Challenges
 
 Our project initially faced a significant challenge: we had to pivot from our original idea after two weeks of collaboration with advisors and YaleHealth. We were planning a Mental Health resource platform intended for all students on campus. However, we realized that our goal was too ambitious given the constraints of our project timeline and the feasibility of a partnership.
 
@@ -129,7 +129,7 @@ Once the setup was complete, we delved into the intricate process of determining
 
 Ultimately, we succeeded in creating a website that we are immensely proud of. It embodies the result of countless late nights and hours of hard work, including extensive debugging. We meticulously tested every aspect of our site, from CSS text-wrapping to dynamic sizing, ensuring that input fields and text remained within their designated containers. The final product is not just a testament to our technical skills but also our resilience and adaptability in the face of unexpected challenges.
 
-### ------- Future Plans ------- ####
+## Future Plans
 
 Streaks
 - In the future, we intend to introduce a 'streak' feature that will log and store recent activities along with their dates. This will enable us to track consecutive activities for displaying streaks. As of now, the front-end interface is ready. The next steps involve integrating a backend 'GET' request and developing a function to calculate the duration of the streak.
